@@ -57,7 +57,6 @@ fourthQuestion ={
    quiz(currentQuestion.question , currentQuestion.answer)
  }
 
-
 var highscores = [Rajani = {score : "5"},
 Shivani ={score : "5"},
 Akash = {score : "5"}
